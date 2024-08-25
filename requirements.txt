@@ -1,0 +1,10 @@
+langchain
+langchain_community
+langchain[all]
+langchain_openai
+streamlit
+python-dotenv
+pypdf
+numpy
+chromadb
+faiss-cpu
