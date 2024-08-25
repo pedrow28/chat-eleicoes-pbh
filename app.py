@@ -51,7 +51,7 @@ with tab1:
 
 
 
-        if prompt := st.chat_input("O que você gostaria de saber sobre as propostas dos candidatos?"):
+        if prompt := st.chat_input("Pergunte aqui!"):
             st.session_state.messages.append({"role": "user", "content": prompt})
             with st.chat_message("user"):
                 st.markdown(prompt)
