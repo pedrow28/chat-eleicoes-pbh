@@ -12,3 +12,4 @@ protobuf>=3.20.0,<4.0.0
 opentelemetry-api>=1.12.0,<2.0.0
 opentelemetry-sdk>=1.12.0,<2.0.0
 opentelemetry-exporter-otlp>=1.12.0,<2.0.0
+pysqlite3-binary
