@@ -7,7 +7,6 @@ streamlit
 python-dotenv
 pypdf
 numpy
-chromadb
 faiss-cpu
 protobuf==3.20.0
 opentelemetry-api==1.12.0
